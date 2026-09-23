@@ -442,25 +442,17 @@ Przepis wprowadza wyjątek od obowiązku przeprowadzania wyborów przedterminowy
 >
 > § 3. Kwota przypadająca na jeden mandat radnego wynosi:
 >
-> 1) w wyborach do rady gminy w gminach liczących do 40 000 mieszkańców – 1000 złotych;
+> 1) w wyborach do rady gminy w gminach liczących do 40 000 mieszkańców – 1000⁽¹²⁾ złotych;
 >
-> 2) w wyborach do rady gminy w gminach liczących powyżej 40 000 mieszkańców oraz w wyborach do rad dzielnic miasta stołecznego Warszawy – 1200 złotych;
+> 2) w wyborach do rady gminy w gminach liczących powyżej 40 000 mieszkańców oraz w wyborach do rad dzielnic miasta stołecznego Warszawy – 1200⁽¹²⁾ złotych;
 >
-> 3) w wyborach do rady powiatu – 2400 złotych;
+> 3) w wyborach do rady powiatu – 2400⁽¹²⁾ złotych;
 >
-> 4) w wyborach do rady miasta w miastach na prawach powiatu – 3600 złotych;
+> 4) w wyborach do rady miasta w miastach na prawach powiatu – 3600⁽¹²⁾ złotych;
 >
-> 5) w wyborach do sejmiku województwa – 6000 złotych.
+> 5) w wyborach do sejmiku województwa – 6000⁽¹²⁾ złotych.
 
-*Odnośnik w tekście jednolitym:* Aktualną kwotę ogłasza, w drodze rozporządzenia, minister właściwy do spraw finansów publicznych, zgodnie z art. 379 § 1 niniejszej ustawy.
-
-*Odnośnik w tekście jednolitym:* Aktualną kwotę ogłasza, w drodze rozporządzenia, minister właściwy do spraw finansów publicznych, zgodnie z art. 379 § 1 niniejszej ustawy.
-
-*Odnośnik w tekście jednolitym:* Aktualną kwotę ogłasza, w drodze rozporządzenia, minister właściwy do spraw finansów publicznych, zgodnie z art. 379 § 1 niniejszej ustawy.
-
-*Odnośnik w tekście jednolitym:* Aktualną kwotę ogłasza, w drodze rozporządzenia, minister właściwy do spraw finansów publicznych, zgodnie z art. 379 § 1 niniejszej ustawy.
-
-*Odnośnik w tekście jednolitym:* Aktualną kwotę ogłasza, w drodze rozporządzenia, minister właściwy do spraw finansów publicznych, zgodnie z art. 379 § 1 niniejszej ustawy.
+*Odnośnik w tekście jednolitym* 12) Aktualną kwotę ogłasza, w drodze rozporządzenia, minister właściwy do spraw finansów publicznych, zgodnie z art. 379 § 1 niniejszej ustawy.
 
 Przepis wprowadza limity wydatków na agitację wyborczą w wyborach do rad, stanowiące istotny instrument ograniczający wpływ zasobów finansowych na przebieg kampanii samorządowej. § 1 formułuje zasadę ogólną: komitety wyborcze mogą wydatkować na agitację wyborczą wyłącznie kwoty ograniczone limitami wydatków, ustalanymi na zasadach określonych w § 2 i 3 – jest to norma o charakterze bezwzględnie obowiązującym, której naruszenie rodzi konsekwencje przewidziane w przepisach dotyczących finansowania kampanii wyborczej (poza materią niniejszego rozdziału). § 2 określa metodę obliczenia limitu: iloczyn kwoty przypadającej na jeden mandat radnego (określonej w § 3) oraz liczby mandatów przypadających na okręg lub okręgi, w których dany komitet zarejestrował kandydatów – limit jest więc zindywidualizowany dla każdego komitetu, zależnie od skali jego udziału w wyborach. § 3 wylicza stawki kwotowe przypadające na jeden mandat radnego, zróżnicowane w zależności od rodzaju i wielkości jednostki samorządu terytorialnego: 1000 zł w gminach do 40 000 mieszkańców, 1200 zł w gminach powyżej 40 000 mieszkańców oraz w wyborach do rad dzielnic m.st. Warszawy, 2400 zł w wyborach do rady powiatu, 3600 zł w wyborach do rady miasta na prawach powiatu, wreszcie 6000 zł w wyborach do sejmiku województwa – progresja stawek odzwierciedla rosnący zasięg terytorialny i medialny kampanii na wyższych szczeblach samorządu, a więc i wyższe koszty prowadzenia skutecznej agitacji. Załączone przypisy urzędowe wskazują, że kwoty te podlegają okresowej waloryzacji ogłaszanej w drodze rozporządzenia ministra właściwego do spraw finansów publicznych, zgodnie z mechanizmem opisanym w art. 379 § 1 – wskazane w kodeksie kwoty stanowią zatem wartości bazowe, aktualizowane wskaźnikiem inflacji.
 
@@ -530,9 +522,9 @@ Przepis otwiera rozdział 3 (ogłaszanie wyników wyborów na obszarze kraju) i 
 >
 > § 2. Wygaśnięcie mandatu radnego z przyczyn, o których mowa w § 1 pkt 2 – z wyjątkiem powodów wskazanych w art. 10 § 2 i art. 11 § 2, oraz pkt 3, 5 i 7, stwierdza rada, w drodze uchwały, w terminie miesiąca od dnia wystąpienia przyczyny wygaśnięcia mandatu.
 >
-> § 2a. Wygaśnięcie mandatu radnego z dniem wystąpienia przyczyny, o której mowa w § 1 pkt 1, 4, 5a i 6, stwierdza niezwłocznie komisarz wyborczy w drodze postanowienia. Postanowienie komisarza wyborczego ogłasza się w wojewódzkim dzienniku urzędowym oraz podaje się do publicznej wiadomości w Biuletynie Informacji Publicznej. Przepisów art. 247 § 3, art. 279 § 3 oraz art. 364 § 2 nie stosuje się.
+> § 2a. Wygaśnięcie mandatu radnego z dniem wystąpienia przyczyny, o której mowa w § 1 pkt 1, 4, 5a i 6, stwierdza niezwłocznie komisarz wyborczy w drodze postanowienia.⁽¹³⁾ Postanowienie komisarza wyborczego ogłasza się w wojewódzkim dzienniku urzędowym oraz podaje się do publicznej wiadomości w Biuletynie Informacji Publicznej. Przepisów art. 247 § 3, art. 279 § 3 oraz art. 364 § 2 nie stosuje się.
 >
-> § 2b. Wygaśnięcie mandatu radnego wskutek wyboru na posła na Sejm, senatora albo posła do Parlamentu Europejskiego następuje z dniem ogłoszenia obwieszczenia, o którym mowa w art. 238, art. 276 albo art. 361, albo postanowienia, o którym mowa w art. 251 § 5 albo art. 368 § 7.
+> § 2b.⁽¹⁴⁾ Wygaśnięcie mandatu radnego wskutek wyboru na posła na Sejm, senatora albo posła do Parlamentu Europejskiego następuje z dniem ogłoszenia obwieszczenia, o którym mowa w art. 238, art. 276 albo art. 361, albo postanowienia, o którym mowa w art. 251 § 5 albo art. 368 § 7.
 >
 > § 3. W przypadkach określonych w § 1 pkt 2, 3, 5 i 7 przed podjęciem uchwały o wygaśnięciu mandatu należy umożliwić radnemu złożenie wyjaśnień.
 >
@@ -546,9 +538,9 @@ Przepis otwiera rozdział 3 (ogłaszanie wyników wyborów na obszarze kraju) i 
 >
 > § 7. Wygaśnięcie mandatu radnego wskutek objęcia urzędu Prezydenta Rzeczypospolitej następuje z chwilą złożenia wobec Zgromadzenia Narodowego przysięgi, o której mowa w art. 130 Konstytucji Rzeczypospolitej Polskiej.
 
-*Odnośnik w tekście jednolitym:* Zdanie pierwsze w brzmieniu ustalonym przez art. 3 pkt 1 lit. a ustawy z dnia 26 kwietnia 2024 r. o zmianie ustawy o samorządzie gminnym oraz niektórych innych ustaw (Dz. U. poz. 721), która weszła w życie z dniem 28 maja 2024 r.
+*Odnośnik w tekście jednolitym* 13) Zdanie pierwsze w brzmieniu ustalonym przez art. 3 pkt 1 lit. a ustawy z dnia 26 kwietnia 2024 r. o zmianie ustawy o samorządzie gminnym oraz niektórych innych ustaw (Dz. U. poz. 721), która weszła w życie z dniem 28 maja 2024 r.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 3 pkt 1 lit. b ustawy, o której mowa w odnośniku 13.
+*Odnośnik w tekście jednolitym* 14) Dodany przez art. 3 pkt 1 lit. b ustawy, o której mowa w odnośniku 13.
 
 Przepis otwiera rozdział 4 (wygaśnięcie mandatu radnego; wybory uzupełniające i przedterminowe) i stanowi centralną regulację przesłanek wygaśnięcia mandatu radnego oraz trybu jego stwierdzania. § 1 wylicza zamknięty katalog przesłanek: śmierć (pkt 1), utrata prawa wybieralności lub nieposiadanie go w dniu wyborów (pkt 2), odmowa złożenia ślubowania (pkt 3), pisemne zrzeczenie się mandatu (pkt 4), naruszenie ustawowego zakazu łączenia mandatu radnego z wykonywaniem określonych funkcji lub działalności (pkt 5, zasada incompatibilitas znana z ustaw samorządowych), objęcie urzędu Prezydenta Rzeczypospolitej (pkt 5a), wybór na wójta, posła na Sejm, senatora albo posła do Parlamentu Europejskiego (pkt 6), wreszcie niezłożenie w terminie oświadczenia o stanie majątkowym (pkt 7) – ten ostatni przypadek stanowi istotny instrument dyscyplinujący radnych w zakresie transparentności majątkowej. § 2 różnicuje organ właściwy do stwierdzenia wygaśnięcia mandatu w zależności od przesłanki: dla przyczyn z pkt 2 (z wyjątkiem powodów z art. 10 § 2 i art. 11 § 2, dotyczących utraty prawa wybieralności stwierdzonej wyrokiem sądowym), pkt 3, 5 i 7 – właściwa jest sama rada, działająca w drodze uchwały, w terminie miesiąca od dnia wystąpienia przyczyny. § 2a przekazuje kompetencję komisarzowi wyborczemu w odniesieniu do przyczyn z pkt 1, 4, 5a i 6 (śmierć, zrzeczenie się, objęcie urzędu Prezydenta, wybór na inny mandat) – stwierdzenie następuje wówczas niezwłocznie, w drodze postanowienia, ogłaszanego w wojewódzkim dzienniku urzędowym i podawanego do publicznej wiadomości w Biuletynie Informacji Publicznej, z wyłączeniem stosowania art. 247 § 3, art. 279 § 3 oraz art. 364 § 2 (przepisów dotyczących analogicznych trybów w innych rodzajach wyborów, które w tym przypadku nie znajdują zastosowania z uwagi na odmienną regulację). § 2b precyzuje moment wygaśnięcia mandatu radnego wskutek wyboru na posła, senatora albo posła do PE – następuje ono z dniem ogłoszenia stosownego obwieszczenia (art. 238, 276 albo 361) albo postanowienia (art. 251 § 5 albo art. 368 § 7), a więc z chwilą formalnego potwierdzenia nowego mandatu, nie zaś automatycznie z dniem głosowania. § 3 wprowadza gwarancję proceduralną: w przypadkach z pkt 2, 3, 5 i 7 przed podjęciem uchwały o wygaśnięciu mandatu radnemu należy umożliwić złożenie wyjaśnień – realizacja zasady wysłuchania strony przed podjęciem niekorzystnego dla niej rozstrzygnięcia. § 4 i 4a regulują obowiązki doręczenia uchwały rady lub postanowienia komisarza wyborczego zainteresowanemu radnemu oraz odpowiednio wojewodzie i komisarzowi wyborczemu (§ 4) albo wojewodzie i przewodniczącemu rady (§ 4a). § 5 nakłada na radnego, który przed dniem wyboru wykonywał funkcję lub prowadził działalność niepołączalną z mandatem, obowiązek zrzeczenia się tej funkcji lub zaprzestania działalności w ciągu 3 miesięcy od złożenia ślubowania – jest to okres karencji umożliwiający uporządkowanie spraw zawodowych. § 6 przewiduje sankcję niezastosowania się do tego obowiązku: rada stwierdza wówczas wygaśnięcie mandatu w drodze uchwały, w ciągu miesiąca od upływu terminu z § 5. § 7 określa moment wygaśnięcia mandatu wskutek objęcia urzędu Prezydenta – analogicznie do art. 364 § 2b, następuje to z chwilą złożenia przysięgi wobec Zgromadzenia Narodowego. Załączone przypisy urzędowe wskazują, że zdanie pierwsze § 7 otrzymało obecne brzmienie na mocy nowelizacji z 26 kwietnia 2024 r. (Dz.U. poz. 721), która weszła w życie 28 maja 2024 r., a jednostka ta została dodana tą samą nowelizacją.
 

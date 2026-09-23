@@ -522,7 +522,7 @@ Przepis pełni funkcję klauzuli odsyłającej (generalnej), przesądzając, że
 
 > Art. 259. § 1. W wyborach do Senatu komitety wyborcze mogą wydatkować na agitację wyborczą wyłącznie kwoty ograniczone limitami, ustalonymi w następujący sposób:
 >
-> 1) wysokość limitu wyznaczona jest kwotą 18groszy przypadającą na każdego wyborcę w kraju ujętego w Centralnym Rejestrze Wyborców w obwodzie głosowania;
+> 1) wysokość limitu wyznaczona jest kwotą 18⁽⁹⁾groszy przypadającą na każdego wyborcę w kraju ujętego w Centralnym Rejestrze Wyborców w obwodzie głosowania;
 >
 > 2) limit wydatków dla danego komitetu oblicza się według wzoru:
 >
@@ -532,7 +532,7 @@ Przepis pełni funkcję klauzuli odsyłającej (generalnej), przesądzając, że
 >
 > § 2. Przepisy art. 199 § 2 i art. 200 stosuje się odpowiednio.
 
-*Odnośnik w tekście jednolitym:* Aktualną kwotę limitu ogłasza, w drodze rozporządzenia, minister właściwy do spraw finansów publicznych, zgodnie z art. 200 § 1 niniejszej ustawy.
+*Odnośnik w tekście jednolitym* 9) Aktualną kwotę limitu ogłasza, w drodze rozporządzenia, minister właściwy do spraw finansów publicznych, zgodnie z art. 200 § 1 niniejszej ustawy.
 
 Przepis reguluje limity wydatków komitetów wyborczych na agitację wyborczą w wyborach do Senatu, stanowiąc lex specialis wobec ogólnych zasad finansowania kampanii wyborczej uregulowanych w innych częściach kodeksu (do których – w zakresie nieuregulowanym odrębnie – odsyła § 2). § 1 określa metodę obliczania limitu: pkt 1 ustala jednostkową stawkę w wysokości 18 groszy przypadającą na każdego wyborcę ujętego w Centralnym Rejestrze Wyborców w obwodzie głosowania w kraju; pkt 2 opisuje zmienne stosowanego wzoru – L jako limit wydatków danego komitetu, w jako łączną liczbę wyborców ujętych w kraju w Centralnym Rejestrze Wyborców, k jako kwotę jednostkową przypadającą na wyborcę oraz s jako liczbę okręgów wyborczych, w których dany komitet zarejestrował kandydatów na senatorów – konstrukcja ta powoduje, że wysokość dopuszczalnego limitu wydatków komitetu jest wprost powiązana z zakresem terytorialnym jego rzeczywistego udziału w rywalizacji senackiej (liczbą obsadzonych przez niego okręgów), a nie stała dla wszystkich komitetów niezależnie od skali ich zaangażowania.
 

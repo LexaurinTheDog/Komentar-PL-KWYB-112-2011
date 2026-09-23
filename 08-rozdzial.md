@@ -559,7 +559,7 @@ Przepis reguluje dostęp komitetów wyborczych do nieodpłatnego czasu antenoweg
 
 **Brzmienie przepisu:**
 
-> Art. 327. § 1. W wyborach Prezydenta Rzeczypospolitej komitety wyborcze mogą wydatkować na kampanię wyborczą wyłącznie kwoty ograniczone limitem, którego wysokość jest wyznaczona kwotą 60groszy przypadającą na każdego wyborcę w kraju ujętego w Centralnym Rejestrze Wyborców w obwodzie głosowania.
+> Art. 327. § 1. W wyborach Prezydenta Rzeczypospolitej komitety wyborcze mogą wydatkować na kampanię wyborczą wyłącznie kwoty ograniczone limitem, którego wysokość jest wyznaczona kwotą 60⁽¹⁰⁾groszy przypadającą na każdego wyborcę w kraju ujętego w Centralnym Rejestrze Wyborców w obwodzie głosowania.
 >
 > § 2. Państwowa Komisja Wyborcza, w terminie 14 dni od dnia zarządzenia wyborów, ogłasza w formie komunikatu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” i zamieszcza w Biuletynie Informacji Publicznej łączną liczbę wyborców w kraju ujętych w Centralnym Rejestrze Wyborców w obwodach głosowania według stanu na koniec kwartału poprzedzającego dzień ogłoszenia postanowienia o zarządzeniu wyborów.
 >
@@ -567,7 +567,7 @@ Przepis reguluje dostęp komitetów wyborczych do nieodpłatnego czasu antenoweg
 >
 > § 4. Wskaźnik wzrostu cen, o którym mowa w § 3, ustala się na podstawie komunikatu Prezesa Głównego Urzędu Statystycznego ogłaszanego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” do 20 dnia pierwszego miesiąca każdego kwartału.
 
-*Odnośnik w tekście jednolitym:* Aktualną kwotę limitu ogłasza, w drodze rozporządzenia, minister właściwy do spraw finansów publicznych, zgodnie z art. 327 § 3 niniejszej ustawy.
+*Odnośnik w tekście jednolitym* 10) Aktualną kwotę limitu ogłasza, w drodze rozporządzenia, minister właściwy do spraw finansów publicznych, zgodnie z art. 327 § 3 niniejszej ustawy.
 
 Przepis reguluje limit wydatków komitetów wyborczych na kampanię prezydencką oraz mechanizm jego waloryzacji. § 1 wprowadza sztywny limit wydatków, wyznaczony kwotą 60 groszy przypadającą na każdego wyborcę w kraju ujętego w Centralnym Rejestrze Wyborców w obwodzie głosowania – w odróżnieniu od wyborów do Parlamentu Europejskiego (art. 337), gdzie limit jest różnicowany okręgowo, w wyborach prezydenckich, ze względu na ich ogólnokrajowy, jednoosobowy charakter, limit odnosi się jednolicie do całego elektoratu krajowego. § 2 nakłada na PKW obowiązek ogłoszenia, w terminie 14 dni od dnia zarządzenia wyborów, łącznej liczby wyborców ujętych w Centralnym Rejestrze Wyborców według stanu na koniec kwartału poprzedzającego ogłoszenie postanowienia o zarządzeniu wyborów, w formie komunikatu w „Monitor Polski” oraz w Biuletynie Informacji Publicznej – dane te stanowią bazę do obliczenia konkretnej, kwotowej wysokości limitu dla poszczególnych komitetów. § 3 przewiduje mechanizm waloryzacyjny: minister właściwy do spraw finansów publicznych podwyższa, w drodze rozporządzenia, kwotę bazową w razie wzrostu wskaźnika cen towarów i usług konsumpcyjnych o ponad 5%, w stopniu odpowiadającym temu wzrostowi, co ma chronić realną wartość limitu wydatków w warunkach inflacji. § 4 określa podstawę ustalenia wskaźnika cen – komunikat Prezesa Głównego Urzędu Statystycznego ogłaszany w „Monitor Polski” do 20 dnia pierwszego miesiąca każdego kwartału. Załączony do artykułu przypis urzędowy potwierdza, że aktualną kwotę limitu ogłasza w drodze rozporządzenia minister właściwy do spraw finansów publicznych, zgodnie z mechanizmem opisanym w § 3, co ma znaczenie praktyczne dla ustalenia wysokości limitu obowiązującego w konkretnych wyborach.
 
@@ -669,7 +669,7 @@ Przepis reguluje kwestię protestów wyborczych oraz postępowania w sprawie stw
 
 > Art. 337. § 1. W wyborach do Parlamentu Europejskiego komitety wyborcze mogą wydatkować na agitację wyborczą wyłącznie kwoty ograniczone limitami, ustalonymi w następujący sposób:
 >
-> 1) wysokość limitu wyznaczona jest kwotą 60groszy przypadającą na każdego wyborcę w kraju ujętego w Centralnym Rejestrze Wyborców w obwodzie głosowania;
+> 1) wysokość limitu wyznaczona jest kwotą 60⁽¹¹⁾groszy przypadającą na każdego wyborcę w kraju ujętego w Centralnym Rejestrze Wyborców w obwodzie głosowania;
 >
 > 2) limit wydatków dla danego komitetu oblicza się według wzoru:
 >
@@ -683,7 +683,7 @@ Przepis reguluje kwestię protestów wyborczych oraz postępowania w sprawie stw
 >
 > § 4. Wskaźnik wzrostu cen, o którym mowa w § 3, ustala się na podstawie komunikatu Prezesa Głównego Urzędu Statystycznego ogłaszanego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” do 20 dnia pierwszego miesiąca każdego kwartału.
 
-*Odnośnik w tekście jednolitym:* Aktualną kwotę limitu ogłasza, w drodze rozporządzenia, minister właściwy do spraw finansów, zgodnie z art. 337 § 3 niniejszej ustawy.
+*Odnośnik w tekście jednolitym* 11) Aktualną kwotę limitu ogłasza, w drodze rozporządzenia, minister właściwy do spraw finansów, zgodnie z art. 337 § 3 niniejszej ustawy.
 
 Przepis reguluje limit wydatków komitetów wyborczych na agitację wyborczą w wyborach do Parlamentu Europejskiego, różnicując go – w odróżnieniu od jednolitego limitu w wyborach prezydenckich (art. 327) – w zależności od zasięgu terytorialnego kandydowania danego komitetu. § 1 pkt 1 ustala jednostkową stawkę bazową na poziomie 60 groszy na każdego wyborcę w kraju ujętego w Centralnym Rejestrze Wyborców w obwodzie głosowania – identyczną jak w wyborach prezydenckich. Pkt 2 wprowadza wzór obliczania konkretnego limitu wydatków dla danego komitetu (L), którego wartość uzależniona jest od iloczynu kwoty jednostkowej (k) oraz łącznej liczby wyborców (w) ujętych w obwodach głosowania położonych wyłącznie na obszarze tych okręgów wyborczych, w których dany komitet zarejestrował listy kandydatów – co odzwierciedla fakt, że w wyborach do Parlamentu Europejskiego komitety mogą zgłaszać listy tylko w wybranych okręgach, a nie obligatoryjnie w całym kraju, w związku z czym ich limit wydatków jest proporcjonalny do rzeczywistego zasięgu terytorialnego kampanii. § 2 nakłada na PKW obowiązek ogłoszenia, w terminie 14 dni od dnia zarządzenia wyborów, w formie komunikatu w „Monitor Polski” i w Biuletynie Informacji Publicznej, łącznych liczb wyborców w poszczególnych okręgach wyborczych według stanu na koniec kwartału poprzedzającego ogłoszenie postanowienia o zarządzeniu wyborów – dane te stanowią podstawę obliczeniową dla wzoru z § 1 pkt 2. § 3 i § 4 przewidują mechanizm waloryzacyjny analogiczny do art. 327 § 3 i 4 – podwyższenie kwoty bazowej przez ministra właściwego do spraw finansów publicznych w razie wzrostu wskaźnika cen towarów i usług konsumpcyjnych o ponad 5%, ustalanego na podstawie komunikatu Prezesa GUS. Załączony przypis urzędowy potwierdza, że aktualną kwotę limitu ogłasza w drodze rozporządzenia minister właściwy do spraw finansów, zgodnie z mechanizmem opisanym w § 3.
 

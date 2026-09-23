@@ -488,7 +488,7 @@ Przepis reguluje mechanizm awaryjny stosowany w sytuacji, w której żadna lista
 
 > Art. 199. § 1. W wyborach do Sejmu komitety wyborcze mogą wydatkować na agitację wyborczą wyłącznie kwoty ograniczone limitami, ustalonymi w następujący sposób:
 >
-> 1) wysokość limitu wyznaczona jest kwotą 82 groszy przypadającą na każdego wyborcę w kraju ujętego w Centralnym Rejestrze Wyborców w obwodzie głosowania;
+> 1) wysokość limitu wyznaczona jest kwotą 82⁽⁹⁾ groszy przypadającą na każdego wyborcę w kraju ujętego w Centralnym Rejestrze Wyborców w obwodzie głosowania;
 >
 > 2) limit wydatków dla danego komitetu oblicza się według wzoru:
 >
@@ -498,7 +498,7 @@ Przepis reguluje mechanizm awaryjny stosowany w sytuacji, w której żadna lista
 >
 > § 2. Państwowa Komisja Wyborcza, w terminie 14 dni od dnia zarządzenia wyborów do Sejmu, ogłasza w formie komunikatu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” i zamieszcza w Biuletynie Informacji Publicznej łączną liczbę wyborców w kraju ujętych w Centralnym Rejestrze Wyborców w obwodach głosowania według stanu na koniec kwartału poprzedzającego dzień ogłoszenia postanowienia o zarządzeniu wyborów do Sejmu.
 
-*Odnośnik w tekście jednolitym:* Aktualną kwotę limitu ogłasza, w drodze rozporządzenia, minister właściwy do spraw finansów publicznych, zgodnie z art. 200 § 1 niniejszej ustawy.
+*Odnośnik w tekście jednolitym* 9) Aktualną kwotę limitu ogłasza, w drodze rozporządzenia, minister właściwy do spraw finansów publicznych, zgodnie z art. 200 § 1 niniejszej ustawy.
 
 Przepis reguluje ograniczenia finansowe (limity wydatków) na agitację wyborczą w wyborach do Sejmu, stanowiąc element systemu finansowania kampanii wyborczych mający zapobiegać nadmiernej dysproporcji zasobów finansowych między komitetami wyborczymi i związanym z tym zaburzeniom uczciwej rywalizacji politycznej. Paragraf 1 określa metodologię obliczania limitu – punkt 1 wskazuje bazową kwotę 82 groszy przypadającą na każdego wyborcę w kraju ujętego w Centralnym Rejestrze Wyborców w obwodzie głosowania, a punkt 2 opisuje wzór obliczeniowy, w którym limit wydatków danego komitetu (L) jest funkcją łącznej liczby wyborców w kraju (w), kwoty jednostkowej (k) oraz liczby posłów wybieranych we wszystkich okręgach wyborczych, w których komitet zarejestrował listy kandydatów (m) – konstrukcja ta powoduje, że limit wydatków komitetu jest proporcjonalny do zasięgu terytorialnego jego kampanii (liczby okręgów i mandatów, o które ubiega się dany komitet), a nie jest jednolity dla wszystkich uczestników wyborów niezależnie od skali ich działalności.
 
